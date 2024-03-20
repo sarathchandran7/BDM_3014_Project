@@ -1,5 +1,4 @@
-![Hotel Background](hotel.png)
-
+![Hotel Background](hotel.png){:width="400px"}
 # Hotel Recommendation System
 
 Welcome to my Hotel Recommendation System project! This system aims to help users discover the perfect hotel for their next trip based on their preferences or by similarity to a hotel they already like.
