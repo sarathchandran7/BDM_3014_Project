@@ -1,4 +1,4 @@
-<div style="background-image: url('hotel.png'); background-size: cover; padding: 100px 0;">
+![Hotel Background](hotel.png)
 
 # Hotel Recommendation System
 
@@ -44,4 +44,3 @@ recommendations = recommender(data, location, description)
 
 print(recommendations)
 
-</div>
