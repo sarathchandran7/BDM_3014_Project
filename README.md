@@ -1,3 +1,6 @@
+<div style="background-image: url('https://your-website.com/images/background.jpg'); background-size: cover; padding: 100px 0;">
+    
+
 # Hotel Recommendation System
 
 Welcome to my Hotel Recommendation System project! This system aims to help users discover the perfect hotel for their next trip based on their preferences or by similarity to a hotel they already like.
@@ -41,3 +44,5 @@ description = "Romantic getaway with a view"
 recommendations = recommender(data, location, description)
 
 print(recommendations)
+
+</div>
