@@ -1,4 +1,4 @@
-<div style="background-image: url('https://github.com/sarathchandran7/HotelRecommendationSystem/blob/6e2b7149ceee3dbf93fbc6740cc78877d850b59f/hotel.png'); background-size: cover; padding: 100px 0;">
+<div style="background-image: url('https://github.com/sarathchandran7/HotelRecommendationSystem/blob/main/hotel.png?raw=true'); background-size: cover; padding: 100px 0;">
     
 
 # Hotel Recommendation System
